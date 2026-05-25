@@ -14,3 +14,6 @@ project folder - (blip2_daquar_ft in this case):
 
 Author's note:  
 comments in the code may contain minor mistakes (false statements or descriptions that conflict with actual code) due to a lot of edits applied while developing the code
+<br>
+<br>
+Made by: Viktor Uhrynchuk
